@@ -17,3 +17,5 @@ concat : south_df [24755 rows × 1 columns]
 
 clean : ลบคำที่ไม่ใช่ [ก-๙\s]
 	ลบคำซ้ำ
+
+*** ไม่อนุญาติให้นำ file data ไปใช้ทุกกรณี ***
